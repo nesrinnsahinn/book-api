@@ -22,18 +22,8 @@ Bu depo, Kitap Listesi Uygulaması için kaynak kodları ve talimatları içerme
 ## Kurulum ve Çalıştırma
 
 1. **Depoyu Klonla:**
-   ```bash
-   git clone https://github.com/kullanici-adiniz/kitap-listesi-uygulamasi.git
-   cd kitap-listesi-uygulamasi
-
-## Kurulum ve Çalıştırma
-
-1. **Depoyu Klonla:**
-   ```bash
-   git clone https://github.com/kullanici-adiniz/kitap-listesi-uygulamasi.git
-   cd kitap-listesi-uygulamasi
    
-## Gerekli Paketleri Yükle:
+2. **Gerekli Paketleri Yükle:**
 npm install
-## Uygulamayı çalıştır
+3. **Uygulamayı çalıştır**
 npm run dev
