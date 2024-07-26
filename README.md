@@ -21,7 +21,7 @@ Bu depo, Kitap Listesi Uygulaması için kaynak kodları ve talimatları içerme
 
 ## Kurulum ve Çalıştırma
 
-1. **Depoyu Klonla:**
+1. **Depoyu Klonla**
    
 2. **Gerekli Paketleri Yükle:**
 npm install
